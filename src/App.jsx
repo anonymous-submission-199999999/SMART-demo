@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from 'react'
 import Progress from './components/Progress';
 import Editor from './Editor';
 import Range from './Range';
+import { remiToMidi } from './remiToMidi';
+import "html-midi-player";
 
 function App() {
 
@@ -9,12 +11,29 @@ function App() {
   const [ready, setReady] = useState(null);
   const [progressItems, setProgressItems] = useState([]);
 
+  const visualizerRef = useRef(null);
+
+  useEffect(() => {
+    if (visualizerRef.current) {
+      visualizerRef.current.config = {
+        noteHeight: 4,
+        pixelsPerTimeStep: 60,
+        minPitch: 30
+      };
+    }
+  }
+  , [visualizerRef]);
+
+
+
   // Inputs and outputs
-  const [input, setInput] = useState('BOS_None Program_0');
+  const [input, setInput] = useState('BOS_None');
   const [output, setOutput] = useState('');
   const [disabled, setDisabled] = useState(false);
 
-  const [generationParams, setGenerationParams] = useState({ temperature: 1.0, top_k: 50, top_p: 0.99, max_length: 2048 })
+  const [midiUrl, setMidiUrl] = useState(null);
+
+  const [generationParams, setGenerationParams] = useState({ temperature: 1.0, top_k: 50, top_p: 0.99, max_length: 100 })
 
   const worker = useRef(null);
 
@@ -68,6 +87,10 @@ function App() {
           // Generation complete: re-enable the "Translate" button
           setOutput(e.data.output);
           setDisabled(false);
+          let midi = remiToMidi(e.data.output);
+          const blob = new Blob([midi.toArray()], { type: 'audio/midi' });
+          const url = URL.createObjectURL(blob);
+          setMidiUrl(url);
           break;
       }
     };
@@ -101,8 +124,6 @@ function App() {
           </div>
         </div>
         <button style={{height:64}} disabled={disabled} onClick={generate}>Generate{!ready && " (downloads 89mb model first time)"}</button>
-
-        {/* output */}
         <div style={{ display: "flex", flexDirection: "row", alignItems: "center" }}>
           {progressItems.length > 0 &&
             (<div>
@@ -115,7 +136,15 @@ function App() {
             </div>
             )}
           {ready && output}
+          
+          {midiUrl && <a href={midiUrl} download="output.mid">Download MIDI</a>}
         </div>
+        {midiUrl && 
+        <div style={{ height: 300, width: 600, display: "flex", flexDirection: "column", alignItems: "center" }}>
+          <midi-player visualizer="#myVisualizer" src={midiUrl} sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus" />
+          <midi-visualizer type="piano-roll" id="myVisualizer" src={midiUrl} ref={visualizerRef}></midi-visualizer>
+        </div>
+        }
       </div>
     </div>
   )

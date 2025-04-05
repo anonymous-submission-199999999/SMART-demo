@@ -4,7 +4,7 @@ import { pipeline, TextStreamer, TextGenerationPipeline, env, AutoTokenizer, Pre
 
 
 // env.localModelPath = '../public/models/session_gt2d/nospace';
-env.localModelPath = '../public/models';
+env.localModelPath = '../public/models/';
 
 // env.remotePathTemplate = '{model}/'
 env.allowRemoteModels = false;
@@ -61,7 +61,7 @@ self.addEventListener('message', async (event) => {
     const streamer = new TextStreamer(lm.tokenizer, {
         skip_prompt: false,
         callback_function: (text) => {
-            gen += " "+text;
+            gen += " " +text;
             self.postMessage({
                 status: 'update',
                 output: gen,
