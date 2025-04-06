@@ -4,6 +4,8 @@ import Editor from './Editor';
 import Range from './Range';
 import { remiToMidi } from './remiToMidi';
 import "html-midi-player";
+import MIDIPlayer from './MIDIPlayer';
+import { Midi } from '@tonejs/midi';
 
 function App() {
 
@@ -27,13 +29,13 @@ function App() {
 
 
   // Inputs and outputs
-  const [input, setInput] = useState('BOS_None');
+  const [input, setInput] = useState('BOS_None Bar_None');
   const [output, setOutput] = useState('');
   const [disabled, setDisabled] = useState(false);
 
   const [midiUrl, setMidiUrl] = useState(null);
 
-  const [generationParams, setGenerationParams] = useState({ temperature: 1.0, top_k: 50, top_p: 0.99, max_length: 100 })
+  const [generationParams, setGenerationParams] = useState({ temperature: 1.0, top_p: 0.99, max_length: 100 })
 
   const worker = useRef(null);
 
@@ -120,7 +122,7 @@ function App() {
             <Range min={1} max={500} step={1} defaultValue={100} label="Max length" description="" value={generationParams.max_length} onChange={value => setGenerationParams(oldGenerationParams => ({ ...oldGenerationParams, max_length: value }))} />
             <Range min={0} max={2} step={0.01} defaultValue={1} label="Temperature" description="" value={generationParams.temperature} onChange={value => setGenerationParams(oldGenerationParams => ({ ...oldGenerationParams, temperature: value }))} />
             <Range min={0} max={1} step={0.01} defaultValue={1} label="Top P" description="" value={generationParams.top_p} onChange={value => setGenerationParams(oldGenerationParams => ({ ...oldGenerationParams, top_p: value }))} />
-            <Range min={1} max={100} step={1} defaultValue={50} label="Top K" description="" value={generationParams.top_k} onChange={value => setGenerationParams(oldGenerationParams => ({ ...oldGenerationParams, top_k: value }))} />
+            {/* <Range min={1} max={500} step={1} defaultValue={500} label="Top K" description="" value={generationParams.top_k} onChange={value => setGenerationParams(oldGenerationParams => ({ ...oldGenerationParams, top_k: value }))} /> */}
           </div>
         </div>
         <button style={{height:64}} disabled={disabled} onClick={generate}>Generate{!ready && " (downloads 89mb model first time)"}</button>
@@ -140,10 +142,11 @@ function App() {
           {midiUrl && <a href={midiUrl} download="output.mid">Download MIDI</a>}
         </div>
         {midiUrl && 
-        <div style={{ height: 300, width: 600, display: "flex", flexDirection: "column", alignItems: "center" }}>
-          <midi-player visualizer="#myVisualizer" src={midiUrl} sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus" />
-          <midi-visualizer type="piano-roll" id="myVisualizer" src={midiUrl} ref={visualizerRef}></midi-visualizer>
-        </div>
+        // <div style={{ height: 300, width: 600, display: "flex", flexDirection: "column", alignItems: "center", backgroundColor: "white", border: "1px solid black", marginTop: 16 }}>
+        //   <midi-player visualizer="prVis" src={midiUrl} sound-font="https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus" />
+        //   <midi-visualizer type="staff" id="prVis" ref={visualizerRef}></midi-visualizer>
+        // </div>
+        <MIDIPlayer src={midiUrl} isPlaying={true}/>
         }
       </div>
     </div>

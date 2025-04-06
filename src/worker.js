@@ -26,7 +26,7 @@ class MyLMPipeline {
 
     static async getInstance(progress_callback = null) {
         if (this.instance === null) {
-            this.instance = pipeline(this.task, this.model, { progress_callback: progress_callback });
+            this.instance = pipeline(this.task, this.model, { progress_callback: progress_callback, dtype: "q4"});
         }
         return this.instance;
     }
@@ -40,12 +40,33 @@ self.addEventListener('message', async (event) => {
         self.postMessage(x);
     }, 
     );
+    
+    // Test encoding/decoding with known tokens from your data
+    const testTokens = ["Bar_None", "Position_0", "Pitch_67", "Velocity_123", "Duration_0.4.12", "TimeSig_4/4"];
+    testTokens.forEach(token => {
+        const encoded = lm.tokenizer.encode(token);
+        const decoded = lm.tokenizer.decode(encoded);
+        console.log(`Token: ${token}, Encoded: ${encoded}, Decoded: ${decoded}, Match: ${token === decoded}`);
+    });
 
-    let text = event.data.text.trim();
+    console.log("Vocabulary sample:", Object.keys(lm.tokenizer));
+
+    console.log("Tokenizer:", lm.tokenizer.model.vocab);
+
+    // for each key in tokenizer, print the key and the value
+    for (let key in lm.tokenizer) {
+        console.log(key, lm.tokenizer[key]);
+    }
+
+    let text = event.data.text;
+
+
 
     let stopToken = "EOS_None"
     let stopTokenId = lm.tokenizer.encode(stopToken)[0];
 
+
+    console.log(lm.tokenizer.encode("Velocity_115"));
 
     // temperature: 2:
     // max_new_tokens: 10:
@@ -69,6 +90,8 @@ self.addEventListener('message', async (event) => {
         }
     })
 
+    console.log(text);
+
     // Actually perform the translation
     let output = await lm(text, {
         ...event.data.generationParams,
@@ -84,6 +107,10 @@ self.addEventListener('message', async (event) => {
         // }
         streamer: streamer,
     });
+
+    console.log(output[0].generated_text);
+
+    console.log(lm.tokenizer.encode(output[0].generated_text));
 
     // console.log("output: ", output);
     // remove stop token
