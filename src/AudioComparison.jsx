@@ -191,6 +191,10 @@ const AudioComparison = () => {
             // Create new audio element
             const audio = new Audio();
 
+            // Configure audio for better mobile compatibility
+            audio.preload = 'auto';
+            audio.playsinline = true;
+
             // Once loaded, update the refs and loading state
             audio.oncanplaythrough = () => {
                 audioRefs.current[audioPath] = audio;
@@ -241,9 +245,53 @@ const AudioComparison = () => {
             // Load the audio (will resolve immediately if already loaded)
             const audio = await loadAudio(audioInfo);
 
-            // Play the audio once it's loaded
-            await audio.play();
-            setCurrentlyPlaying(audioPath);
+            // Play the audio once it's loaded - with mobile fixes
+            try {
+                // Set properties that help with mobile playback
+                audio.playsinline = true;
+                audio.muted = false; // Ensure it's not muted
+                audio.volume = 1.0;  // Set volume to max
+
+                // Special handling for iOS devices
+                if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+                    // iOS often requires a user gesture to play audio
+                    // Unmute and play in the same promise chain
+                    await audio.play();
+                } else {
+                    // For other devices
+                    await audio.play();
+                }
+
+                setCurrentlyPlaying(audioPath);
+            } catch (playError) {
+                console.error("Error playing audio (likely autoplay restriction):", playError);
+
+                // If we get an autoplay error, we'll show a message and keep the audio loaded
+                // so the user can try again with another click
+                setLoadingStates(prev => ({ ...prev, [audioPath]: false }));
+
+                // On mobile, we might need to create a one-time "unlock" for audio context
+                if (typeof window !== 'undefined') {
+                    const unlockAudio = () => {
+                        // Create and play a silent audio element to unlock audio context
+                        const silentAudio = new Audio();
+                        silentAudio.play().then(() => {
+                            // Now try to play our actual audio
+                            audio.play().then(() => {
+                                setCurrentlyPlaying(audioPath);
+                            }).catch(e => console.error("Still couldn't play after unlock:", e));
+                        }).catch(e => console.error("Couldn't unlock audio context:", e));
+
+                        // Remove the listener once used
+                        document.body.removeEventListener('touchstart', unlockAudio);
+                        document.body.removeEventListener('click', unlockAudio);
+                    };
+
+                    // Add listeners to try again on next user interaction
+                    document.body.addEventListener('touchstart', unlockAudio, false);
+                    document.body.addEventListener('click', unlockAudio, false);
+                }
+            }
         } catch (error) {
             console.error("Error handling audio playback:", error);
             setLoadingStates(prev => ({ ...prev, [audioPath]: false }));
