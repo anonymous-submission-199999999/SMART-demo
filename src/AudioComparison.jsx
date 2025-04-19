@@ -5,7 +5,24 @@ const AudioComparison = () => {
     const [currentlyPlaying, setCurrentlyPlaying] = useState(null);
     const [selectedExperiment, setSelectedExperiment] = useState(null);
     const [loadingStates, setLoadingStates] = useState({});
+    const [isMobile, setIsMobile] = useState(false);
     const audioRefs = useRef({});
+
+    // Check if the user is on a mobile device
+    useEffect(() => {
+        const checkMobile = () => {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            const mobileRegex = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
+            setIsMobile(mobileRegex.test(userAgent));
+        };
+
+        checkMobile();
+        window.addEventListener('resize', checkMobile);
+
+        return () => {
+            window.removeEventListener('resize', checkMobile);
+        };
+    }, []);
 
     // Simple helper function to get the correct audio path based on environment
     const getAudioPath = (fileInfo) => {
@@ -166,6 +183,43 @@ const AudioComparison = () => {
             fontSize: '14px',
             color: '#4b5563',
             marginBottom: '16px',
+        },
+        mobileWarning: {
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            backgroundColor: 'rgba(0, 0, 0, 0.85)',
+            color: 'white',
+            display: 'flex',
+            flexDirection: 'column',
+            justifyContent: 'center',
+            alignItems: 'center',
+            zIndex: 1000,
+            padding: '20px',
+            textAlign: 'center',
+        },
+        warningTitle: {
+            fontSize: '24px',
+            fontWeight: 'bold',
+            marginBottom: '16px',
+        },
+        warningText: {
+            fontSize: '16px',
+            marginBottom: '24px',
+            maxWidth: '80%',
+            lineHeight: '1.5',
+        },
+        continueButton: {
+            backgroundColor: '#ef4444',
+            color: 'white',
+            padding: '12px 24px',
+            borderRadius: '4px',
+            border: 'none',
+            cursor: 'pointer',
+            fontSize: '16px',
+            fontWeight: 'bold',
         }
     };
 
@@ -322,10 +376,36 @@ const AudioComparison = () => {
         };
     }, [currentlyPlaying]);
 
+    // Mobile warning component
+    const MobileWarning = () => {
+        const [dismissed, setDismissed] = useState(false);
+
+        if (!isMobile || dismissed) {
+            return null;
+        }
+
+        return (
+            <div style={styles.mobileWarning}>
+                <h2 style={styles.warningTitle}>Warning: Mobile Not Supported</h2>
+                <p style={styles.warningText}>
+                    This audio comparison website does not work properly on mobile devices.
+                    For the best experience, please access this site from a desktop or laptop computer.
+                </p>
+                <button
+                    style={styles.continueButton}
+                    onClick={() => setDismissed(true)}
+                >
+                    Continue Anyway
+                </button>
+            </div>
+        );
+    };
+
     // Early return if no data is available
     if (!audioIndex || !audioIndex.allFiles || audioIndex.allFiles.length === 0) {
         return (
             <div style={{ textAlign: 'center', padding: '48px' }}>
+                <MobileWarning />
                 No audio files found
             </div>
         );
@@ -418,6 +498,8 @@ const AudioComparison = () => {
 
     return (
         <div style={styles.container}>
+            <MobileWarning />
+
             <h1 style={styles.title}>Audio Comparison</h1>
 
             <div style={styles.experimentSelector}>
