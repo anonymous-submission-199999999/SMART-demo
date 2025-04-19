@@ -1,6 +1,6 @@
 {
-  "name": "abc-composer",
-  "homepage": "https://erl-j.github.io/abc-composer",
+  "name": "SMART-demo",
+  "homepage": "https://erl-j.github.io/SMART-demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
