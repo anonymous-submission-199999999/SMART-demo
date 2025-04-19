@@ -4,49 +4,38 @@ import audioIndex from './audioIndex';
 const AudioComparison = () => {
     const [currentlyPlaying, setCurrentlyPlaying] = useState(null);
     const [selectedExperiment, setSelectedExperiment] = useState(null);
+    const [loadingStates, setLoadingStates] = useState({});
     const audioRefs = useRef({});
 
     // Simple helper function to get the correct audio path based on environment
     const getAudioPath = (fileInfo) => {
         if (!fileInfo) return null;
-
-        // Check if we're in development or production
         const isDev = import.meta.env.DEV;
         const basePath = isDev ? '' : import.meta.env.BASE_URL || '/';
-
-        // Use the relativeMp3Path which doesn't have the 'public/' prefix
         return `${basePath}${fileInfo.relativeMp3Path}`;
     };
 
     // Set the first experiment as selected when component mounts
     useEffect(() => {
-        if (audioIndex && audioIndex.uniqueExperiments && audioIndex.uniqueExperiments.length > 0) {
+        if (audioIndex?.uniqueExperiments?.length > 0) {
             setSelectedExperiment(audioIndex.uniqueExperiments[0]);
         }
     }, []);
 
-    // Play and Pause icons as SVG
-    const PlayIcon = () => (
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M8 5v14l11-7z" />
-        </svg>
-    );
-
-    // Playing icon with animation
-    const PlayingIcon = () => (
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" className="playing-icon">
-            <path d="M8 5v14l11-7z" />
-            <style>{`
-                @keyframes blink {
-                    0%, 100% { opacity: 1; }
-                    50% { opacity: 0.5; }
-                }
-                .playing-icon {
-                    animation: blink 1s ease-in-out infinite;
-                }
-            `}</style>
-        </svg>
-    );
+    // Base styles object with common values to reduce redundancy
+    const baseStyles = {
+        button: {
+            padding: '6px 12px',
+            border: '1px solid #e5e7eb',
+            borderRadius: '4px',
+            cursor: 'pointer',
+            fontSize: '14px',
+        },
+        cell: {
+            padding: '8px',
+            border: '1px solid #e5e7eb',
+        }
+    };
 
     // Styles
     const styles = {
@@ -74,23 +63,16 @@ const AudioComparison = () => {
             marginBottom: '16px',
         },
         experimentButton: {
-            padding: '6px 12px',
+            ...baseStyles.button,
             backgroundColor: '#f3f4f6',
-            border: '1px solid #e5e7eb',
-            borderRadius: '4px',
-            cursor: 'pointer',
             fontWeight: 'normal',
-            fontSize: '14px',
         },
         experimentButtonActive: {
-            padding: '6px 12px',
+            ...baseStyles.button,
             backgroundColor: '#3b82f6',
             color: 'white',
             border: '1px solid #2563eb',
-            borderRadius: '4px',
-            cursor: 'pointer',
             fontWeight: 'bold',
-            fontSize: '14px',
         },
         tableContainer: {
             overflowX: 'auto',
@@ -110,15 +92,13 @@ const AudioComparison = () => {
             backgroundColor: '#f3f4f6',
         },
         headerCell: {
-            padding: '8px',
-            border: '1px solid #e5e7eb',
+            ...baseStyles.cell,
             textAlign: 'center',
             fontWeight: 'bold',
             backgroundColor: '#f3f4f6',
         },
         promptCell: {
-            padding: '8px',
-            border: '1px solid #e5e7eb',
+            ...baseStyles.cell,
             fontWeight: '600',
             backgroundColor: '#f9fafb',
             position: 'sticky',
@@ -130,8 +110,7 @@ const AudioComparison = () => {
             textOverflow: 'ellipsis',
         },
         dataCell: {
-            padding: '8px',
-            border: '1px solid #e5e7eb',
+            ...baseStyles.cell,
             textAlign: 'center',
             verticalAlign: 'middle',
         },
@@ -161,41 +140,27 @@ const AudioComparison = () => {
             alignItems: 'center',
             justifyContent: 'center',
         },
+        loadingButton: {
+            backgroundColor: '#9ca3af',
+            color: 'white',
+            padding: '6px',
+            borderRadius: '4px',
+            border: 'none',
+            cursor: 'wait',
+            width: '30px',
+            height: '30px',
+            display: 'inline-flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+        },
         fileInfo: {
             fontSize: '10px',
             marginTop: '4px',
             color: '#4b5563',
         },
-        audioDetails: {
-            fontSize: '12px',
-            color: '#4b5563',
-            marginTop: '4px',
-        },
         noSamples: {
             color: '#9ca3af',
             fontSize: '12px',
-        },
-        responsiveNote: {
-            fontSize: '14px',
-            color: '#6b7280',
-            marginTop: '8px',
-            marginBottom: '16px',
-        },
-        legend: {
-            marginTop: '16px',
-            marginBottom: '24px',
-            fontSize: '14px',
-        },
-        legendItem: {
-            display: 'flex',
-            alignItems: 'center',
-            marginBottom: '8px',
-        },
-        legendColor: {
-            width: '16px',
-            height: '16px',
-            marginRight: '8px',
-            borderRadius: '4px',
         },
         infoText: {
             fontSize: '14px',
@@ -204,36 +169,84 @@ const AudioComparison = () => {
         }
     };
 
-    // Helper function to get the full path for an audio file
-    const getFullAudioPath = (audioInfo) => {
-        return audioInfo ? getAudioPath(audioInfo) : null;
+    // Lazy load audio and track loading state
+    const loadAudio = (audioInfo) => {
+        return new Promise((resolve, reject) => {
+            if (!audioInfo) {
+                reject('No audio info');
+                return;
+            }
+
+            const audioPath = getAudioPath(audioInfo);
+
+            // If already loaded, return immediately
+            if (audioRefs.current[audioPath]) {
+                resolve(audioRefs.current[audioPath]);
+                return;
+            }
+
+            // Set loading state
+            setLoadingStates(prev => ({ ...prev, [audioPath]: true }));
+
+            // Create new audio element
+            const audio = new Audio();
+
+            // Once loaded, update the refs and loading state
+            audio.oncanplaythrough = () => {
+                audioRefs.current[audioPath] = audio;
+                setLoadingStates(prev => ({ ...prev, [audioPath]: false }));
+                resolve(audio);
+            };
+
+            // Handle loading errors
+            audio.onerror = () => {
+                console.error("Error loading audio:", audioPath);
+                setLoadingStates(prev => ({ ...prev, [audioPath]: false }));
+                reject('Failed to load audio');
+            };
+
+            // Start loading
+            audio.src = audioPath;
+        });
     };
 
-    const handlePlay = (audioInfo) => {
+    const handlePlay = async (audioInfo) => {
         if (!audioInfo) return;
 
         const audioPath = getAudioPath(audioInfo);
+
+        // If clicking the currently playing button, just stop it
+        if (currentlyPlaying === audioPath) {
+            if (audioRefs.current[audioPath]) {
+                audioRefs.current[audioPath].pause();
+                audioRefs.current[audioPath].currentTime = 0;
+            }
+            setCurrentlyPlaying(null);
+            return;
+        }
 
         // Stop currently playing audio if any
         if (currentlyPlaying && audioRefs.current[currentlyPlaying]) {
             audioRefs.current[currentlyPlaying].pause();
             audioRefs.current[currentlyPlaying].currentTime = 0;
-        }
-
-        // If clicking the currently playing button, just stop it
-        if (currentlyPlaying === audioPath) {
             setCurrentlyPlaying(null);
-            return;
         }
 
-        // Play the new audio
-        if (audioRefs.current[audioPath]) {
-            console.log("Playing audio:", audioPath);
-            audioRefs.current[audioPath].play()
-                .catch(error => {
-                    console.error("Error playing audio:", error);
-                });
+        try {
+            // Set loading state (even if already loading)
+            if (!audioRefs.current[audioPath]) {
+                setLoadingStates(prev => ({ ...prev, [audioPath]: true }));
+            }
+
+            // Load the audio (will resolve immediately if already loaded)
+            const audio = await loadAudio(audioInfo);
+
+            // Play the audio once it's loaded
+            await audio.play();
             setCurrentlyPlaying(audioPath);
+        } catch (error) {
+            console.error("Error handling audio playback:", error);
+            setLoadingStates(prev => ({ ...prev, [audioPath]: false }));
         }
     };
 
@@ -312,6 +325,47 @@ const AudioComparison = () => {
         });
     };
 
+    // Custom SVG icons using CSS for animations
+    const PlayIcon = () => (
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+            <path d="M8 5v14l11-7z" />
+        </svg>
+    );
+
+    const PlayingIcon = () => (
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" className="playing-icon">
+            <path d="M8 5v14l11-7z" />
+            <style>
+                {`
+                .playing-icon {
+                    animation: blink 1s ease-in-out infinite;
+                }
+                @keyframes blink {
+                    0%, 100% { opacity: 1; }
+                    50% { opacity: 0.5; }
+                }
+                `}
+            </style>
+        </svg>
+    );
+
+    const LoadingIcon = () => (
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" className="loading-icon">
+            <circle cx="12" cy="12" r="8" stroke="currentColor" strokeWidth="2" fill="none" />
+            <style>
+                {`
+                .loading-icon {
+                    animation: spin 1.5s linear infinite;
+                }
+                @keyframes spin {
+                    0% { transform: rotate(0deg); }
+                    100% { transform: rotate(360deg); }
+                }
+                `}
+            </style>
+        </svg>
+    );
+
     const examples = getExperimentExamples();
 
     return (
@@ -325,7 +379,7 @@ const AudioComparison = () => {
                         style={selectedExperiment === experiment ? styles.experimentButtonActive : styles.experimentButton}
                         onClick={() => setSelectedExperiment(experiment)}
                     >
-                        {experiment.replace('experiment_A', 'tuning with procedural prompts').replace("experiment_B", "tuning with prompts from piano dataset")}
+                        {experiment.replace('experiment_A', 'tuning with procedural prompts, 10s').replace("experiment_B", "tuning with prompts from piano dataset, 30s")}
                     </button>
                 ))}
             </div>
@@ -353,33 +407,40 @@ const AudioComparison = () => {
                             const finetunedAudio = example.models?.finetuned;
                             const { timeSignature, tempo } = extractAudioInfo(example.prompt);
 
-                            const isBaseAudioPlaying = currentlyPlaying === getAudioPath(baseAudio);
-                            const isFinetunedAudioPlaying = currentlyPlaying === getAudioPath(finetunedAudio);
+                            const baseAudioPath = getAudioPath(baseAudio);
+                            const finetunedAudioPath = getAudioPath(finetunedAudio);
+
+                            const isBaseAudioPlaying = currentlyPlaying === baseAudioPath;
+                            const isFinetunedAudioPlaying = currentlyPlaying === finetunedAudioPath;
+
+                            const isBaseAudioLoading = loadingStates[baseAudioPath] === true;
+                            const isFinetunedAudioLoading = loadingStates[finetunedAudioPath] === true;
 
                             return (
                                 <tr key={`${example.promptIndex}-${example.prompt}`}>
                                     <td style={styles.dataCell}>
                                         {timeSignature}, {tempo} BPM
-                                        {/* <div style={styles.fileInfo}>Index: {example.promptIndex}</div> */}
                                     </td>
                                     <td style={styles.dataCell}>
                                         {baseAudio ? (
                                             <div>
                                                 <button
                                                     onClick={() => handlePlay(baseAudio)}
-                                                    style={isBaseAudioPlaying ? styles.playingButton : styles.playButton}
-                                                    title={isBaseAudioPlaying ? "Stop" : "Play Base Model Audio"}
+                                                    style={
+                                                        isBaseAudioLoading ? styles.loadingButton :
+                                                            isBaseAudioPlaying ? styles.playingButton :
+                                                                styles.playButton
+                                                    }
+                                                    title={
+                                                        isBaseAudioLoading ? "Loading..." :
+                                                            isBaseAudioPlaying ? "Stop" :
+                                                                "Play Base Model Audio"
+                                                    }
                                                 >
-                                                    {isBaseAudioPlaying ? <PlayingIcon /> : <PlayIcon />}
+                                                    {isBaseAudioLoading ? <LoadingIcon /> :
+                                                        isBaseAudioPlaying ? <PlayingIcon /> :
+                                                            <PlayIcon />}
                                                 </button>
-                                                <audio
-                                                    ref={el => {
-                                                        if (el) audioRefs.current[getAudioPath(baseAudio)] = el;
-                                                    }}
-                                                    controls={false}
-                                                    src={getAudioPath(baseAudio)}
-                                                    style={{ display: 'none' }}
-                                                />
                                             </div>
                                         ) : (
                                             <div style={styles.noSamples}>No audio</div>
@@ -390,19 +451,21 @@ const AudioComparison = () => {
                                             <div>
                                                 <button
                                                     onClick={() => handlePlay(finetunedAudio)}
-                                                    style={isFinetunedAudioPlaying ? styles.playingButton : styles.playButton}
-                                                    title={isFinetunedAudioPlaying ? "Stop" : "Play Fine-tuned Model Audio"}
+                                                    style={
+                                                        isFinetunedAudioLoading ? styles.loadingButton :
+                                                            isFinetunedAudioPlaying ? styles.playingButton :
+                                                                styles.playButton
+                                                    }
+                                                    title={
+                                                        isFinetunedAudioLoading ? "Loading..." :
+                                                            isFinetunedAudioPlaying ? "Stop" :
+                                                                "Play Fine-tuned Model Audio"
+                                                    }
                                                 >
-                                                    {isFinetunedAudioPlaying ? <PlayingIcon /> : <PlayIcon />}
+                                                    {isFinetunedAudioLoading ? <LoadingIcon /> :
+                                                        isFinetunedAudioPlaying ? <PlayingIcon /> :
+                                                            <PlayIcon />}
                                                 </button>
-                                                <audio
-                                                    ref={el => {
-                                                        if (el) audioRefs.current[getAudioPath(finetunedAudio)] = el;
-                                                    }}
-                                                    controls={false}
-                                                    src={getAudioPath(finetunedAudio)}
-                                                    style={{ display: 'none' }}
-                                                />
                                             </div>
                                         ) : (
                                             <div style={styles.noSamples}>No audio</div>
