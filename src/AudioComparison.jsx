@@ -6,8 +6,17 @@ const AudioComparison = () => {
     const [selectedExperiment, setSelectedExperiment] = useState(null);
     const audioRefs = useRef({});
 
-    // Get the base URL from Vite's environment variable
-    const basePath = import.meta.env.BASE_URL || '/';
+    // Simple helper function to get the correct audio path based on environment
+    const getAudioPath = (fileInfo) => {
+        if (!fileInfo) return null;
+
+        // Check if we're in development or production
+        const isDev = import.meta.env.DEV;
+        const basePath = isDev ? '' : import.meta.env.BASE_URL || '/';
+
+        // Use the relativeMp3Path which doesn't have the 'public/' prefix
+        return `${basePath}${fileInfo.relativeMp3Path}`;
+    };
 
     // Set the first experiment as selected when component mounts
     useEffect(() => {
@@ -196,31 +205,14 @@ const AudioComparison = () => {
     };
 
     // Helper function to get the full path for an audio file
-    const getFullAudioPath = (relativePath) => {
-        if (!relativePath) return null;
-
-        // If the path already starts with http or https, don't modify it
-        if (relativePath.startsWith('http://') || relativePath.startsWith('https://')) {
-            return relativePath;
-        }
-
-        // Remove leading slash if both basePath and relativePath have slashes
-        if (basePath.endsWith('/') && relativePath.startsWith('/')) {
-            return `${basePath}${relativePath.substring(1)}`;
-        }
-
-        // Add slash if neither has one
-        if (!basePath.endsWith('/') && !relativePath.startsWith('/')) {
-            return `${basePath}/${relativePath}`;
-        }
-
-        // Otherwise just concatenate
-        return `${basePath}${relativePath}`;
+    const getFullAudioPath = (audioInfo) => {
+        return audioInfo ? getAudioPath(audioInfo) : null;
     };
 
-    const handlePlay = (audioPath) => {
-        // Convert to full path for playing and tracking
-        const fullAudioPath = getFullAudioPath(audioPath);
+    const handlePlay = (audioInfo) => {
+        if (!audioInfo) return;
+
+        const audioPath = getAudioPath(audioInfo);
 
         // Stop currently playing audio if any
         if (currentlyPlaying && audioRefs.current[currentlyPlaying]) {
@@ -229,19 +221,19 @@ const AudioComparison = () => {
         }
 
         // If clicking the currently playing button, just stop it
-        if (currentlyPlaying === fullAudioPath) {
+        if (currentlyPlaying === audioPath) {
             setCurrentlyPlaying(null);
             return;
         }
 
         // Play the new audio
-        if (audioRefs.current[fullAudioPath]) {
-            console.log("Playing audio:", fullAudioPath);
-            audioRefs.current[fullAudioPath].play()
+        if (audioRefs.current[audioPath]) {
+            console.log("Playing audio:", audioPath);
+            audioRefs.current[audioPath].play()
                 .catch(error => {
                     console.error("Error playing audio:", error);
                 });
-            setCurrentlyPlaying(fullAudioPath);
+            setCurrentlyPlaying(audioPath);
         }
     };
 
@@ -356,12 +348,8 @@ const AudioComparison = () => {
                             const finetunedAudio = getAudioForPromptAndModel(prompt, 'finetuned');
                             const { timeSignature, tempo } = extractAudioInfo(prompt);
 
-                            // Get full paths for comparison with currentlyPlaying
-                            const baseAudioFullPath = baseAudio ? getFullAudioPath(baseAudio.mp3Path) : null;
-                            const finetunedAudioFullPath = finetunedAudio ? getFullAudioPath(finetunedAudio.mp3Path) : null;
-
-                            const isBaseAudioPlaying = currentlyPlaying === baseAudioFullPath;
-                            const isFinetunedAudioPlaying = currentlyPlaying === finetunedAudioFullPath;
+                            const isBaseAudioPlaying = currentlyPlaying === getAudioPath(baseAudio);
+                            const isFinetunedAudioPlaying = currentlyPlaying === getAudioPath(finetunedAudio);
 
                             return (
                                 <tr key={prompt}>
@@ -372,7 +360,7 @@ const AudioComparison = () => {
                                         {baseAudio ? (
                                             <div>
                                                 <button
-                                                    onClick={() => handlePlay(baseAudio.mp3Path)}
+                                                    onClick={() => handlePlay(baseAudio)}
                                                     style={isBaseAudioPlaying ? styles.playingButton : styles.playButton}
                                                     title={isBaseAudioPlaying ? "Stop" : "Play Base Model Audio"}
                                                 >
@@ -380,10 +368,10 @@ const AudioComparison = () => {
                                                 </button>
                                                 <audio
                                                     ref={el => {
-                                                        if (el) audioRefs.current[baseAudioFullPath] = el;
+                                                        if (el) audioRefs.current[getAudioPath(baseAudio)] = el;
                                                     }}
                                                     controls={false}
-                                                    src={baseAudioFullPath}
+                                                    src={getAudioPath(baseAudio)}
                                                     style={{ display: 'none' }}
                                                 />
                                             </div>
@@ -395,7 +383,7 @@ const AudioComparison = () => {
                                         {finetunedAudio ? (
                                             <div>
                                                 <button
-                                                    onClick={() => handlePlay(finetunedAudio.mp3Path)}
+                                                    onClick={() => handlePlay(finetunedAudio)}
                                                     style={isFinetunedAudioPlaying ? styles.playingButton : styles.playButton}
                                                     title={isFinetunedAudioPlaying ? "Stop" : "Play Fine-tuned Model Audio"}
                                                 >
@@ -403,10 +391,10 @@ const AudioComparison = () => {
                                                 </button>
                                                 <audio
                                                     ref={el => {
-                                                        if (el) audioRefs.current[finetunedAudioFullPath] = el;
+                                                        if (el) audioRefs.current[getAudioPath(finetunedAudio)] = el;
                                                     }}
                                                     controls={false}
-                                                    src={finetunedAudioFullPath}
+                                                    src={getAudioPath(finetunedAudio)}
                                                     style={{ display: 'none' }}
                                                 />
                                             </div>
