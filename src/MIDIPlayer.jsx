@@ -9,10 +9,10 @@ const MIDIPlayer = ({ src, isPlaying }) => {
 
     useEffect(() => {
         visualizerRef.current.config = {
-            noteHeight: 3,
-            pixelsPerTimeStep: 40,
-            minPitch: 24,
-            maxPitch: 96,
+            noteHeight: 4,
+            pixelsPerTimeStep: 24,
+            minPitch: 21,
+            maxPitch: 108,
         };
     }, [visualizerRef.current])
 
@@ -31,6 +31,7 @@ const MIDIPlayer = ({ src, isPlaying }) => {
             playerRef.current.addVisualizer(visualizerRef.current);
             playerRef.current.addEventListener('load', () => {
                 console.log("loaded");
+                playerRef.current.loop = true;
                 playerRef.current.start();
             })
         }

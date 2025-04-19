@@ -20,14 +20,21 @@ env.useBrowserCache = false;
  */
 class MyLMPipeline {
     static task = 'text-generation';
-    // static model = 'checkpoint-8000';
-    static model = 'model_tjs';
+    // static model = 'model_tjs_long';
+    static model = 'model_tjs_loops';
     static instance = null;
 
     static async getInstance(progress_callback = null) {
         if (this.instance === null) {
-            this.instance = pipeline(this.task, this.model, { progress_callback: progress_callback, dtype: "q4"});
+            this.instance = pipeline(this.task, this.model, { progress_callback: progress_callback, 
+                // dtype: "fp16",
+                device: "webgpu",
+                // dtype: "int8",
+                dtype : "q4"
+            });
         }
+
+        
         return this.instance;
     }
 }
@@ -41,32 +48,12 @@ self.addEventListener('message', async (event) => {
     }, 
     );
     
-    // Test encoding/decoding with known tokens from your data
-    const testTokens = ["Bar_None", "Position_0", "Pitch_67", "Velocity_123", "Duration_0.4.12", "TimeSig_4/4"];
-    testTokens.forEach(token => {
-        const encoded = lm.tokenizer.encode(token);
-        const decoded = lm.tokenizer.decode(encoded);
-        console.log(`Token: ${token}, Encoded: ${encoded}, Decoded: ${decoded}, Match: ${token === decoded}`);
-    });
-
-    console.log("Vocabulary sample:", Object.keys(lm.tokenizer));
-
-    console.log("Tokenizer:", lm.tokenizer.model.vocab);
-
-    // for each key in tokenizer, print the key and the value
-    for (let key in lm.tokenizer) {
-        console.log(key, lm.tokenizer[key]);
-    }
-
     let text = event.data.text;
 
 
 
     let stopToken = "EOS_None"
     let stopTokenId = lm.tokenizer.encode(stopToken)[0];
-
-
-    console.log(lm.tokenizer.encode("Velocity_115"));
 
     // temperature: 2:
     // max_new_tokens: 10:
@@ -76,9 +63,7 @@ self.addEventListener('message', async (event) => {
     // // num_return_sequences: 1,
     // min_tokens:
     // top_k:
-
     let gen = ""
-
     const streamer = new TextStreamer(lm.tokenizer, {
         skip_prompt: false,
         callback_function: (text) => {
