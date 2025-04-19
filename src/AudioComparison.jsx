@@ -283,31 +283,36 @@ const AudioComparison = () => {
         return { timeSignature, tempo };
     };
 
-    // Get relevant prompts for the selected experiment
-    const getExperimentPrompts = () => {
+    // Get examples for the selected experiment - FIXED to use file indices
+    const getExperimentExamples = () => {
         if (!selectedExperiment || !audioIndex.experiments[selectedExperiment]) {
             return [];
         }
 
-        // Extract unique prompts from the experiment
         const experimentFiles = audioIndex.experiments[selectedExperiment];
-        const uniquePrompts = [...new Set(experimentFiles.map(file => file.prompt))];
-        return uniquePrompts.sort();
+
+        // Group by promptIndex to ensure we get one entry for each original index
+        const examplesByPromptIndex = {};
+
+        // First group files by promptIndex
+        experimentFiles.forEach(file => {
+            if (!examplesByPromptIndex[file.promptIndex]) {
+                examplesByPromptIndex[file.promptIndex] = {
+                    promptIndex: file.promptIndex,
+                    prompt: file.prompt,
+                    models: {}
+                };
+            }
+            examplesByPromptIndex[file.promptIndex].models[file.model] = file;
+        });
+
+        // Convert to array and sort by promptIndex
+        return Object.values(examplesByPromptIndex).sort((a, b) => {
+            return parseInt(a.promptIndex) - parseInt(b.promptIndex);
+        });
     };
 
-    // Get files for a specific prompt and model in the selected experiment
-    const getAudioForPromptAndModel = (prompt, model) => {
-        if (!selectedExperiment || !prompt || !model) return null;
-
-        const matchingFiles = audioIndex.experiments[selectedExperiment].filter(
-            file => file.prompt === prompt && file.model === model
-        );
-
-        if (matchingFiles.length === 0) return null;
-        return matchingFiles[0];
-    };
-
-    const prompts = getExperimentPrompts();
+    const examples = getExperimentExamples();
 
     return (
         <div style={styles.container}>
@@ -320,7 +325,7 @@ const AudioComparison = () => {
                         style={selectedExperiment === experiment ? styles.experimentButtonActive : styles.experimentButton}
                         onClick={() => setSelectedExperiment(experiment)}
                     >
-                        {experiment.replace('experiment_', 'Exp ')}
+                        {experiment.replace('experiment_A', 'tuning with procedural prompts').replace("experiment_B", "tuning with prompts from piano dataset")}
                     </button>
                 ))}
             </div>
@@ -343,18 +348,19 @@ const AudioComparison = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        {prompts.map(prompt => {
-                            const baseAudio = getAudioForPromptAndModel(prompt, 'base');
-                            const finetunedAudio = getAudioForPromptAndModel(prompt, 'finetuned');
-                            const { timeSignature, tempo } = extractAudioInfo(prompt);
+                        {examples.map(example => {
+                            const baseAudio = example.models?.base;
+                            const finetunedAudio = example.models?.finetuned;
+                            const { timeSignature, tempo } = extractAudioInfo(example.prompt);
 
                             const isBaseAudioPlaying = currentlyPlaying === getAudioPath(baseAudio);
                             const isFinetunedAudioPlaying = currentlyPlaying === getAudioPath(finetunedAudio);
 
                             return (
-                                <tr key={prompt}>
+                                <tr key={`${example.promptIndex}-${example.prompt}`}>
                                     <td style={styles.dataCell}>
                                         {timeSignature}, {tempo} BPM
+                                        {/* <div style={styles.fileInfo}>Index: {example.promptIndex}</div> */}
                                     </td>
                                     <td style={styles.dataCell}>
                                         {baseAudio ? (

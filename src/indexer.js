@@ -165,6 +165,11 @@ async function createIndex() {
 
                 console.log(`Added to index: ${relativeMp3Path}`);
             }
+            else {
+                console.error(`Failed to convert ${file.wavPath} to MP3`);
+                // exit
+                asd
+            }
         }
 
         // Group files by various attributes
@@ -215,6 +220,7 @@ export default audioIndex;
         fs.writeFileSync(OUTPUT_FILE, jsContent);
         console.log(`Audio index module created at ${OUTPUT_FILE}`);
         console.log(`Converted ${audioFiles.length} WAV files to MP3`);
+        // print how many files are in the index and
 
     } catch (error) {
         console.error('Error creating audio index:', error);
