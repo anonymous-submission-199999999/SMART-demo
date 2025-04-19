@@ -436,7 +436,7 @@ const AudioComparison = () => {
                 These examples showcase outputs from the base and SMART tuned models using the same randomly selected prompts using different models.
                 Temperature of 1.0 was used for all samples.
                 All samples reflect the raw outputs of the models, without any filtering, post-processing, meaning some samples might be short or silent.
-                Occasional deviations from tempos stated in the prompt are due to the model inserting a tempo change.
+                Occasional deviations from tempos and time signatures stated in the prompt are due to the model inserting a new tempo or time signature token.
                 All outputs are rendered using the same soundfont as used during finetuning.
             </div>
 
