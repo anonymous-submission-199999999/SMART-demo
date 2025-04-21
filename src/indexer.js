@@ -10,6 +10,7 @@ const execAsync = promisify(exec);
 const AUDIO_DIR = 'audio_examples';
 const MP3_OUTPUT_DIR = 'public/audio_examples_mp3';
 const OUTPUT_FILE = 'src/audioIndex.js';
+const MAX_DURATION = 10; // Maximum duration in seconds
 
 // Create output directory if it doesn't exist
 function ensureDirectoryExists(directory) {
@@ -19,14 +20,27 @@ function ensureDirectoryExists(directory) {
     }
 }
 
-// Convert WAV to MP3 using ffmpeg
+// Convert WAV to MP3 using ffmpeg and crop to MAX_DURATION seconds
 async function convertWavToMp3(wavPath, mp3Path) {
     try {
-        await execAsync(`ffmpeg -i "${wavPath}" -codec:a libmp3lame -qscale:a 2 "${mp3Path}"`);
-        console.log(`Converted: ${path.basename(wavPath)} -> ${path.basename(mp3Path)}`);
+        // Get the duration of the audio file
+        const { stdout } = await execAsync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${wavPath}"`);
+        const duration = parseFloat(stdout.trim());
+
+        console.log(`Original duration of ${path.basename(wavPath)}: ${duration} seconds`);
+
+        // If duration is greater than MAX_DURATION, crop the audio
+        if (duration > MAX_DURATION) {
+            await execAsync(`ffmpeg -i "${wavPath}" -codec:a libmp3lame -qscale:a 2 -t ${MAX_DURATION} "${mp3Path}"`);
+            console.log(`Converted and cropped to ${MAX_DURATION}s: ${path.basename(wavPath)} -> ${path.basename(mp3Path)}`);
+        } else {
+            // Otherwise convert normally
+            await execAsync(`ffmpeg -i "${wavPath}" -codec:a libmp3lame -qscale:a 2 "${mp3Path}"`);
+            console.log(`Converted: ${path.basename(wavPath)} -> ${path.basename(mp3Path)}`);
+        }
         return true;
     } catch (error) {
-        console.error(`Error converting ${wavPath} to MP3:`, error.message);
+        console.error(`Error processing ${wavPath}:`, error.message);
         return false;
     }
 }
@@ -81,7 +95,7 @@ function findWavFiles() {
 
         // Look for experiment directories
         for (const item of items) {
-            if (item.isDirectory() && item.name.startsWith('experiment_')) {
+            if (item.isDirectory()) {
                 const experimentPath = path.join(AUDIO_DIR, item.name);
                 console.log(`Found experiment directory: ${experimentPath}`);
 
@@ -168,7 +182,7 @@ async function createIndex() {
             else {
                 console.error(`Failed to convert ${file.wavPath} to MP3`);
                 // exit
-                asd
+                process.exit(1);
             }
         }
 

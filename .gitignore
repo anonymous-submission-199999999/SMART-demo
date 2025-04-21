@@ -1,5 +1,6 @@
 public/models
 models/
+local/
 audio_examples
 # Logs
 logs

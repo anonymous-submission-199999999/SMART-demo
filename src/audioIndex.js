@@ -6,1327 +6,1327 @@ const audioIndex = {
     {
       "filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
       "mp3Filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "0",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-      "wavPath": "audio_examples/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
       "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "10",
       "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-      "wavPath": "audio_examples/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
     },
     {
       "filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
       "mp3Filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "11",
       "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-      "wavPath": "audio_examples/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
       "mp3Filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "12",
       "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-      "wavPath": "audio_examples/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
       "mp3Filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "13",
       "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-      "wavPath": "audio_examples/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
     },
     {
       "filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
       "mp3Filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "14",
       "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-      "wavPath": "audio_examples/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
       "mp3Filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "1",
       "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-      "wavPath": "audio_examples/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
       "mp3Filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "2",
       "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-      "wavPath": "audio_examples/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
       "mp3Filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "3",
       "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-      "wavPath": "audio_examples/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
     },
     {
       "filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
       "mp3Filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "4",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-      "wavPath": "audio_examples/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
     },
     {
       "filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
       "mp3Filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "5",
       "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
     },
     {
       "filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
       "mp3Filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "6",
       "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-      "wavPath": "audio_examples/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
     },
     {
       "filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
       "mp3Filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "7",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-      "wavPath": "audio_examples/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
     },
     {
       "filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
       "mp3Filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "8",
       "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-      "wavPath": "audio_examples/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
     },
     {
       "filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
       "mp3Filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "base",
       "promptIndex": "9",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-      "wavPath": "audio_examples/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "0",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
       "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "10",
       "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "11",
       "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "12",
       "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
       "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "13",
       "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "14",
       "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "1",
       "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "2",
       "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
       "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "3",
       "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
       "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "4",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
       "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "5",
       "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
       "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "6",
       "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
       "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "7",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
       "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "8",
       "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
     },
     {
       "filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
       "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-      "experiment": "experiment_A",
+      "experiment": "procedurally generated prompts",
       "model": "finetuned",
       "promptIndex": "9",
       "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-      "wavPath": "audio_examples/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+      "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
     },
     {
-      "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-      "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "0",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-      "wavPath": "audio_examples/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-      "mp3Filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+      "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "10",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-      "wavPath": "audio_examples/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
     },
     {
-      "filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-      "mp3Filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+      "mp3Filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "11",
-      "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-      "wavPath": "audio_examples/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-      "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+      "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "12",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-      "wavPath": "audio_examples/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
     },
     {
-      "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "13",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
     },
     {
-      "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-      "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+      "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "14",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-      "wavPath": "audio_examples/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
     },
     {
-      "filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-      "mp3Filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+      "mp3Filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "1",
-      "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-      "wavPath": "audio_examples/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
     },
     {
-      "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-      "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "2",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-      "wavPath": "audio_examples/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "3",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
     },
     {
-      "filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-      "mp3Filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+      "mp3Filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "4",
-      "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-      "wavPath": "audio_examples/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+      "mp3Filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "5",
-      "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-      "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+      "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "6",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-      "wavPath": "audio_examples/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+      "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "7",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
     },
     {
-      "filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+      "mp3Filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "8",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
     },
     {
-      "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-      "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+      "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "base",
       "promptIndex": "9",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-      "wavPath": "audio_examples/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "0",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+      "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "10",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-      "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "11",
-      "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-      "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+      "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "12",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "13",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-      "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+      "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "14",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+      "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "1",
-      "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "2",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "3",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-      "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "4",
-      "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "5",
-      "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "6",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+      "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "7",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+      "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "8",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
     },
     {
-      "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-      "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-      "experiment": "experiment_B",
+      "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+      "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+      "experiment": "prompts sampled from dataset",
       "model": "finetuned",
       "promptIndex": "9",
-      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-      "wavPath": "audio_examples/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-      "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-      "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+      "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+      "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+      "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+      "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
     }
   ],
   "experiments": {
-    "experiment_A": [
+    "procedurally generated prompts": [
       {
         "filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
         "mp3Filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "0",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-        "wavPath": "audio_examples/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "10",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
         "mp3Filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "11",
         "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
         "mp3Filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "12",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-        "wavPath": "audio_examples/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
         "mp3Filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "13",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-        "wavPath": "audio_examples/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
         "filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
         "mp3Filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "14",
         "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-        "wavPath": "audio_examples/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "1",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
         "mp3Filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "2",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-        "wavPath": "audio_examples/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "3",
         "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
         "mp3Filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "4",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-        "wavPath": "audio_examples/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
       },
       {
         "filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
         "mp3Filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "5",
         "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
         "mp3Filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "6",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-        "wavPath": "audio_examples/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
         "mp3Filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "7",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-        "wavPath": "audio_examples/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
       },
       {
         "filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "8",
         "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
         "mp3Filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "9",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-        "wavPath": "audio_examples/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "0",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "10",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "11",
         "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "12",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "13",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "14",
         "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "1",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "2",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "3",
         "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "4",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "5",
         "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "6",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "7",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "8",
         "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "9",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
       }
     ],
-    "experiment_B": [
+    "prompts sampled from dataset": [
       {
-        "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "0",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-        "wavPath": "audio_examples/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "10",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-        "wavPath": "audio_examples/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
       },
       {
-        "filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "11",
-        "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-        "wavPath": "audio_examples/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "12",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-        "wavPath": "audio_examples/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "13",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "14",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
-        "filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "1",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-        "wavPath": "audio_examples/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "2",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-        "wavPath": "audio_examples/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "3",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "4",
-        "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-        "wavPath": "audio_examples/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "5",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "6",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-        "wavPath": "audio_examples/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "7",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "8",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
       },
       {
-        "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "9",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-        "wavPath": "audio_examples/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "0",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "10",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "11",
-        "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "12",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "13",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "14",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "1",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "2",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "3",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "4",
-        "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "5",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "6",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "7",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "8",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "9",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
       }
     ]
   },
@@ -1335,664 +1335,664 @@ const audioIndex = {
       {
         "filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
         "mp3Filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "0",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-        "wavPath": "audio_examples/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "10",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
         "mp3Filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "11",
         "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
         "mp3Filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "12",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-        "wavPath": "audio_examples/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
         "mp3Filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "13",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-        "wavPath": "audio_examples/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
         "filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
         "mp3Filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "14",
         "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-        "wavPath": "audio_examples/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "1",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
         "mp3Filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "2",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-        "wavPath": "audio_examples/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "3",
         "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
         "mp3Filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "4",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-        "wavPath": "audio_examples/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
       },
       {
         "filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
         "mp3Filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "5",
         "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
         "mp3Filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "6",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-        "wavPath": "audio_examples/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
       },
       {
         "filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
         "mp3Filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "7",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-        "wavPath": "audio_examples/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
       },
       {
         "filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "8",
         "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
         "mp3Filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "9",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-        "wavPath": "audio_examples/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "0",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-        "wavPath": "audio_examples/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "10",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-        "wavPath": "audio_examples/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
       },
       {
-        "filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "11",
-        "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-        "wavPath": "audio_examples/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "12",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-        "wavPath": "audio_examples/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "13",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "14",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
-        "filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "1",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-        "wavPath": "audio_examples/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "2",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-        "wavPath": "audio_examples/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "3",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "4",
-        "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-        "wavPath": "audio_examples/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "5",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "6",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-        "wavPath": "audio_examples/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "7",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
       },
       {
-        "filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "8",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
       },
       {
-        "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "9",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-        "wavPath": "audio_examples/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
       }
     ],
     "finetuned": [
       {
         "filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "0",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "10",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "11",
         "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "12",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "13",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "14",
         "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "1",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "2",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "3",
         "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "4",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "5",
         "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "6",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "7",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "8",
         "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "9",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "0",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "10",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "11",
-        "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "12",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "13",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "14",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "1",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "2",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "3",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "4",
-        "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "5",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "6",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "7",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "8",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "9",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
       }
     ]
   },
@@ -2001,720 +2001,722 @@ const audioIndex = {
       {
         "filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
         "mp3Filename": "base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "0",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-        "wavPath": "audio_examples/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "0",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_156.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_0_Bar_None_TimeSig_2d2_Position_0_Tempo_156.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0": [
       {
         "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "10",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "10",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_100.0_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67": [
       {
         "filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
         "mp3Filename": "base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "11",
         "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "11",
         "prompt": "Bar_None_TimeSig_7d8_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_11_Bar_None_TimeSig_7d8_Position_0_Tempo_116.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67": [
       {
         "filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
         "mp3Filename": "base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "12",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-        "wavPath": "audio_examples/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "12",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_206.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_12_Bar_None_TimeSig_12d8_Position_0_Tempo_206.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33": [
       {
         "filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
         "mp3Filename": "base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "13",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-        "wavPath": "audio_examples/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "13",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_83.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_13_Bar_None_TimeSig_5d4_Position_0_Tempo_83.33_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67": [
       {
         "filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
         "mp3Filename": "base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "14",
         "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-        "wavPath": "audio_examples/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "14",
         "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_126.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_14_Bar_None_TimeSig_3d4_Position_0_Tempo_126.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67": [
       {
         "filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "1",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "1",
         "prompt": "Bar_None_TimeSig_5d4_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_1_Bar_None_TimeSig_5d4_Position_0_Tempo_56.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67": [
       {
         "filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
         "mp3Filename": "base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "2",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-        "wavPath": "audio_examples/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "2",
         "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_186.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_2_Bar_None_TimeSig_6d8_Position_0_Tempo_186.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0": [
       {
         "filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "3",
         "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "3",
         "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_100.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_3_Bar_None_TimeSig_6d4_Position_0_Tempo_100.0_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33": [
       {
         "filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
         "mp3Filename": "base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "4",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-        "wavPath": "audio_examples/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "4",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_163.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_4_Bar_None_TimeSig_2d2_Position_0_Tempo_163.33_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0": [
       {
         "filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
         "mp3Filename": "base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "5",
         "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "5",
         "prompt": "Bar_None_TimeSig_10d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_5_Bar_None_TimeSig_10d8_Position_0_Tempo_120.0_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0": [
       {
         "filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
         "mp3Filename": "base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "6",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-        "wavPath": "audio_examples/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
         "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "6",
         "prompt": "Bar_None_TimeSig_12d8_Position_0_Tempo_140.0",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_6_Bar_None_TimeSig_12d8_Position_0_Tempo_140.0_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33": [
       {
         "filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
         "mp3Filename": "base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "7",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-        "wavPath": "audio_examples/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "7",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_7_Bar_None_TimeSig_2d2_Position_0_Tempo_103.33_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67": [
       {
         "filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "8",
         "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
         "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "8",
         "prompt": "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_8_Bar_None_TimeSig_9d8_Position_0_Tempo_56.67_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33": [
       {
         "filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
         "mp3Filename": "base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "base",
         "promptIndex": "9",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-        "wavPath": "audio_examples/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/base_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
       },
       {
         "filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
         "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "experiment": "experiment_A",
+        "experiment": "procedurally generated prompts",
         "model": "finetuned",
         "promptIndex": "9",
         "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-        "wavPath": "audio_examples/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_A/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
+        "wavPath": "audio_examples/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/procedurally generated prompts/finetuned_index_9_Bar_None_TimeSig_2d2_Position_0_Tempo_93.33_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67": [
       {
-        "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "0",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-        "wavPath": "audio_examples/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "base",
+        "promptIndex": "2",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
+      },
+      {
+        "filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "0",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_0_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
+      },
+      {
+        "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "finetuned",
+        "promptIndex": "2",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_96.67_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0": [
+    "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0": [
       {
-        "filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Filename": "base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Filename": "base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "10",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-        "wavPath": "audio_examples/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "10",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_10_Bar_None_TimeSig_4d4_Position_0_Tempo_190.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_10_Bar_None_TimeSig_6d8_Position_0_Tempo_90.0_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67": [
       {
-        "filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Filename": "base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Filename": "base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "11",
-        "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-        "wavPath": "audio_examples/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "11",
-        "prompt": "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_11_Bar_None_TimeSig_6d4_Position_0_Tempo_133.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_11_Bar_None_TimeSig_4d4_Position_0_Tempo_86.67_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33": [
       {
-        "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Filename": "base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "12",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-        "wavPath": "audio_examples/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "12",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_12_Bar_None_TimeSig_4d4_Position_0_Tempo_133.33_attempt_0.mp3"
+      }
+    ],
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33": [
+      {
+        "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "base",
+        "promptIndex": "13",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
+      },
+      {
+        "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "base",
+        "promptIndex": "3",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
+      },
+      {
+        "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "finetuned",
+        "promptIndex": "13",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
+      },
+      {
+        "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "finetuned",
+        "promptIndex": "3",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_73.33_attempt_0.mp3"
       }
     ],
     "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0": [
       {
-        "filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "base",
-        "promptIndex": "13",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "base",
-        "promptIndex": "3",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "base",
-        "promptIndex": "7",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "base",
-        "promptIndex": "8",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "finetuned",
-        "promptIndex": "13",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_13_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "finetuned",
-        "promptIndex": "3",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_3_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "finetuned",
-        "promptIndex": "7",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      },
-      {
-        "filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "finetuned",
-        "promptIndex": "8",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_8_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
-      }
-    ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67": [
-      {
-        "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Filename": "base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "14",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "14",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_116.67_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_14_Bar_None_TimeSig_4d4_Position_0_Tempo_120.0_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33": [
       {
-        "filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Filename": "base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Filename": "base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "1",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-        "wavPath": "audio_examples/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Filename": "finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "1",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_1_Bar_None_TimeSig_6d8_Position_0_Tempo_160.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_1_Bar_None_TimeSig_4d4_Position_0_Tempo_83.33_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67": [
       {
-        "filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Filename": "base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "base",
-        "promptIndex": "2",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-        "wavPath": "audio_examples/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
-      },
-      {
-        "filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "experiment": "experiment_B",
-        "model": "finetuned",
-        "promptIndex": "2",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_2_Bar_None_TimeSig_4d4_Position_0_Tempo_130.0_attempt_0.mp3"
-      }
-    ],
-    "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33": [
-      {
-        "filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Filename": "base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Filename": "base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "4",
-        "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-        "wavPath": "audio_examples/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "4",
-        "prompt": "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_4_Bar_None_TimeSig_3d4_Position_0_Tempo_143.33_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_4_Bar_None_TimeSig_4d4_Position_0_Tempo_66.67_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67": [
       {
-        "filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Filename": "base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "5",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "5",
-        "prompt": "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_5_Bar_None_TimeSig_6d8_Position_0_Tempo_120.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_5_Bar_None_TimeSig_4d4_Position_0_Tempo_76.67_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67": [
       {
-        "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Filename": "base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
         "promptIndex": "6",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-        "wavPath": "audio_examples/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "6",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_250.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_6_Bar_None_TimeSig_4d4_Position_0_Tempo_156.67_attempt_0.mp3"
       }
     ],
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0": [
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67": [
       {
-        "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Filename": "base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "base",
-        "promptIndex": "9",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-        "wavPath": "audio_examples/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+        "promptIndex": "7",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
       },
       {
-        "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "experiment": "experiment_B",
+        "filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Filename": "finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "finetuned",
+        "promptIndex": "7",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_7_Bar_None_TimeSig_4d4_Position_0_Tempo_136.67_attempt_0.mp3"
+      }
+    ],
+    "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0": [
+      {
+        "filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Filename": "base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "base",
+        "promptIndex": "8",
+        "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
+      },
+      {
+        "filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "finetuned",
+        "promptIndex": "8",
+        "prompt": "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_8_Bar_None_TimeSig_2d2_Position_0_Tempo_200.0_attempt_0.mp3"
+      }
+    ],
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0": [
+      {
+        "filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Filename": "base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
+        "model": "base",
+        "promptIndex": "9",
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/base_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
+      },
+      {
+        "filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Filename": "finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "experiment": "prompts sampled from dataset",
         "model": "finetuned",
         "promptIndex": "9",
-        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0",
-        "wavPath": "audio_examples/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.wav",
-        "mp3Path": "public/audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3",
-        "relativeMp3Path": "audio_examples_mp3/experiment_B/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_80.0_attempt_0.mp3"
+        "prompt": "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
+        "wavPath": "audio_examples/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.wav",
+        "mp3Path": "public/audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3",
+        "relativeMp3Path": "audio_examples_mp3/prompts sampled from dataset/finetuned_index_9_Bar_None_TimeSig_4d4_Position_0_Tempo_110.0_attempt_0.mp3"
       }
     ]
   },
   "uniqueExperiments": [
-    "experiment_A",
-    "experiment_B"
+    "procedurally generated prompts",
+    "prompts sampled from dataset"
   ],
   "uniqueModels": [
     "base",
@@ -2736,18 +2738,19 @@ const audioIndex = {
     "Bar_None_TimeSig_2d2_Position_0_Tempo_103.33",
     "Bar_None_TimeSig_9d8_Position_0_Tempo_56.67",
     "Bar_None_TimeSig_2d2_Position_0_Tempo_93.33",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_190.0",
-    "Bar_None_TimeSig_6d4_Position_0_Tempo_133.33",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_96.67",
+    "Bar_None_TimeSig_6d8_Position_0_Tempo_90.0",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_86.67",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_133.33",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_73.33",
     "Bar_None_TimeSig_4d4_Position_0_Tempo_120.0",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_116.67",
-    "Bar_None_TimeSig_6d8_Position_0_Tempo_160.0",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_130.0",
-    "Bar_None_TimeSig_3d4_Position_0_Tempo_143.33",
-    "Bar_None_TimeSig_6d8_Position_0_Tempo_120.0",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_250.0",
-    "Bar_None_TimeSig_4d4_Position_0_Tempo_80.0"
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_83.33",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_66.67",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_76.67",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_156.67",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_136.67",
+    "Bar_None_TimeSig_2d2_Position_0_Tempo_200.0",
+    "Bar_None_TimeSig_4d4_Position_0_Tempo_110.0"
   ]
 };
 

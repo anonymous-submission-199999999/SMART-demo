@@ -231,6 +231,8 @@ const AudioComparison = () => {
                 return;
             }
 
+            console.log("Loading audio:", audioInfo);
+
             const audioPath = getAudioPath(audioInfo);
 
             // If already loaded, return immediately
@@ -304,7 +306,7 @@ const AudioComparison = () => {
                 // Set properties that help with mobile playback
                 audio.playsinline = true;
                 audio.muted = false; // Ensure it's not muted
-                audio.volume = 1.0;  // Set volume to max
+                audio.volume = 0.5;  // Set volume to max
 
                 // Special handling for iOS devices
                 if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
