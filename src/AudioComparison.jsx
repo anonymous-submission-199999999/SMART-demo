@@ -502,7 +502,7 @@ const AudioComparison = () => {
         <div style={styles.container}>
             <MobileWarning />
 
-            <h1 style={styles.title}>Audio Comparison</h1>
+            <h1 style={styles.title}>SMART, Listening examples for AIMC 2025</h1>
 
             <div style={styles.experimentSelector}>
                 {audioIndex.uniqueExperiments.map(experiment => (
@@ -517,11 +517,12 @@ const AudioComparison = () => {
             </div>
 
             <div style={styles.infoText}>
-                These examples showcase outputs from the base and SMART tuned models using the same randomly selected prompts using different models.
+                These examples showcase outputs from the base and SMART tuned models using the same prompts.
                 Temperature of 1.0 was used for all samples.
                 All samples reflect the raw outputs of the models, without any filtering, post-processing, meaning some samples might be short or silent.
+                The prompts were selected at random.
                 Occasional deviations from tempos and time signatures stated in the prompt are due to the model inserting a new tempo or time signature token.
-                All outputs are rendered using the same soundfont as used during finetuning.
+                All outputs are rendered using the same soundfont as used during SMART training.
             </div>
 
             <div style={styles.tableContainer}>
@@ -530,7 +531,7 @@ const AudioComparison = () => {
                         <tr>
                             <th style={styles.headerCell}>Prompt</th>
                             <th style={styles.headerCell}>Base Model</th>
-                            <th style={styles.headerCell}>Fine-tuned Model</th>
+                            <th style={styles.headerCell}>SMART Model</th>
                         </tr>
                     </thead>
                     <tbody>
