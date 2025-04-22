@@ -519,8 +519,9 @@ const AudioComparison = () => {
             <div style={styles.infoText}>
                 These examples showcase outputs from the base and SMART tuned models using the same prompts.
                 Temperature of 1.0 was used for all samples.
+                Prompts were sampled with a fixed seed of 42.
                 All samples reflect the raw outputs of the models, without any filtering, post-processing, meaning some samples might be short or silent.
-                The prompts were selected at random.
+                All audio was cropped to 10 seconds, the receptive field of Meta AudioBox Aesthetics.
                 Occasional deviations from tempos and time signatures stated in the prompt are due to the model inserting a new tempo or time signature token.
                 All outputs are rendered using the same soundfont as used during SMART training.
             </div>
