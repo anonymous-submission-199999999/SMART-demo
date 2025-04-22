@@ -524,9 +524,7 @@ const AudioComparison = () => {
                     </button>
                 ))}
             </div>
-
-           
-
+            <p>Showing examples for {selectedExperiment}</p>
             <div style={styles.tableContainer}>
                 <table style={styles.table}>
                     <thead style={styles.tableHead}>
