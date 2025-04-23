@@ -505,7 +505,7 @@ const AudioComparison = () => {
             <h1 style={styles.title}>SMART, Listening examples for AIMC 2025</h1>
 
             <div style={styles.infoText}>
-                These examples showcase outputs from the base and SMART tuned models using the same prompts.
+                This page showcases outputs from the models in the paper.
                 <br></br>
                 Temperature of 1.0 was used for all samples. All samples reflect the non cherry picked, raw outputs of the models, without any filtering meaning some samples might be short or silent.
                 All audio was cropped to 10 seconds, the receptive field of Meta AudioBox Aesthetics.
