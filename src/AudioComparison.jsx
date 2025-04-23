@@ -520,7 +520,7 @@ const AudioComparison = () => {
                         style={selectedExperiment === experiment ? styles.experimentButtonActive : styles.experimentButton}
                         onClick={() => setSelectedExperiment(experiment)}
                     >
-                        {experiment.replace('experiment_A', 'tuning with procedural prompts, 10s').replace("experiment_B", "tuning with prompts from piano dataset, 30s")}
+                        {experiment}
                     </button>
                 ))}
             </div>

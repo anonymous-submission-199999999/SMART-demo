@@ -4,7 +4,7 @@ import Range from './Range';
 import { irmaToMidi } from './irmaToMIDI';
 import "html-midi-player";
 import MIDIPlayer from './MIDIPlayer';
-import MIDIPromptBuilder from './MIDIPromptBuilder'; // Import the new component
+import MIDIPromptBuilder from './irmaPromptBuilder'; // Import the new component
 
 function IrmaApp() {
     // Model loading
